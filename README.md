@@ -11,7 +11,7 @@ Formula Support: Simple formulas can be entered into cells to perform calculatio
 Save and Load: Spreadsheet data can be saved locally and loaded for future use.
 
 Demo
-You can check out the live demo of the Google Sheet clone here.
+You can check out the live demo of the Google Sheet clone here https://thehulkbro.github.io/Google-sheet-clone/
 
 Installation
 To run this application locally, follow these steps:
